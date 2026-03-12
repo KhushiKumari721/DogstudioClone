@@ -25,6 +25,6 @@ Overall, this project demonstrates the ability to build modern, responsive, and 
 - Clone the repository
 
 ## Author
-**Khushi Kumari**
+**Khushi Kumari**  
 
 
